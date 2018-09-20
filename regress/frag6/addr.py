@@ -1,0 +1,5 @@
+LOCAL_IF = 'vtnet0'
+LOCAL_MAC = '58:9c:fc:0e:e9:36'
+REMOTE_MAC = '58:9c:fc:0e:2f:00'
+LOCAL_ADDR6 = '2001:638:501:4ef4:5a9c:fcff:fe0e:e936'
+REMOTE_ADDR6 = '2001:638:501:4ef4:5a9c:fcff:fe0e:2f00'
